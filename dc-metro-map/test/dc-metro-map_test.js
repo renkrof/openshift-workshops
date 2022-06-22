@@ -1,4 +1,5 @@
 // This test only passes if the current system time is a odd minute
+// Remove comment on line 2
 exports.passOnOddMinute = function(test) {
 
   var date = new Date();
